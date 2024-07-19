@@ -1,0 +1,12 @@
+hey welcome in my repository , myself sachin pandit , i am from koderma , jharkhand , 
+currently pursuing bca from ARKA JAIN University Jhakhand , 
+i am very glad to say that this is my first app which i worked in it totaly indiudial,
+i faced many problem, but at the end i conquered from all problems ,
+
+install this and emjoy......
+
+specification............
+this app is oly contain ui of a learning app
+here i used auto-route for navigation 
+
+thanksYou...
